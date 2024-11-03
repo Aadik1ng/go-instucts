@@ -75,11 +75,9 @@ The project uses a JSON configuration file (`config.json`) to store important in
 3. Push changes to the main branch of the repository to trigger the sender.
 4. The sender will automatically send the training instructions to the executor.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any inquiries, please reach out to [your.email@example.com].
+For any inquiries, please reach out to [aadityaaryan639@gmail.com].
 <<<
