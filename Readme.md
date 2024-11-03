@@ -49,8 +49,8 @@ The project uses a JSON configuration file (`config.json`) to store important in
 
 1. Clone the repository to your local machine:
    <<<bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/Aadik1ng/go-instucts.git
+   cd go-instucts
    <<<
 
 2. Install Ngrok and set up your authtoken in the `ngrok.yml` configuration file.
